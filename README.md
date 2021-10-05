@@ -1,2 +1,6 @@
 # BenCoke12.github.io
-Practice webpage
+ToDo:  
+add image via jekyll
+add links via jekyll
+improve readme
+change some css

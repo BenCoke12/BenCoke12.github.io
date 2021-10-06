@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Better Picture"
-date: 2021-10-06
+date: 2021-10-07
 ---
 This image is better!  
 
